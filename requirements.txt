@@ -1,0 +1,5 @@
+opencv-python-headless
+pydub
+streamlit_webrtc
+twilio
+matplotlib
